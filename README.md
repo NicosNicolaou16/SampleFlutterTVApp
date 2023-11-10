@@ -7,6 +7,10 @@ NOTE: EXAMPLE ONLY FOR ANDROID
 ## Similar project with (Kotlin Language)
 https://github.com/NicosNicolaou16/SampleAndroidTvApp <br />
 
+# References/Tutorials Follow/For Manifest Setup
+https://mobikul.com/tv-app-using-flutter/ <br />
+https://stackoverflow.com/questions/69607355/how-to-create-stack-vertical-listview-and-horizontal-listview-in-flutter-draggab <br />
+
 # This Project contains:
 Android TV OS support <br />
 Bloc Architecture Pattern with Repository and Service <br />
