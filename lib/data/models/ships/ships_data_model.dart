@@ -1,19 +1,28 @@
-
 import 'package:samplefluttertvapp/data/database/entities/ships_entity.dart';
 
 class ShipsDataModel {
-  final ShipsEntity shipsEntity;
+  final List<ShipsInnerDataModel> shipsInnerDataModel;
 
-  ShipsDataModel(this.shipsEntity);
+  ShipsDataModel(this.shipsInnerDataModel);
 
   static Future<List<ShipsDataModel>> createShipsDataModel(
       List<ShipsEntity> shipsEntityList) async {
     List<ShipsDataModel> shipsDataModelList = [];
 
-    await Future.forEach(shipsEntityList, (ShipsEntity shipsEntity) {
-      shipsDataModelList.add(ShipsDataModel(shipsEntity));
-    });
+    for (int i = 0; i < 10; i++) {
+      List<ShipsInnerDataModel> shipsInnerList = [];
+      shipsEntityList.forEach((shipsEntity) {
+        shipsInnerList.add(ShipsInnerDataModel(shipsEntity));
+      });
+      shipsDataModelList.add(ShipsDataModel(shipsInnerList));
+    }
 
     return shipsDataModelList;
   }
+}
+
+class ShipsInnerDataModel {
+  final ShipsEntity shipsEntity;
+
+  ShipsInnerDataModel(this.shipsEntity);
 }

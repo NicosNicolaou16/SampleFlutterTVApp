@@ -26,6 +26,7 @@ class _ShipDetailsScreenState extends State<ShipDetailsScreen> {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
+          automaticallyImplyLeading: false,
           centerTitle: true,
           elevation: 0,
           title: const Text(
