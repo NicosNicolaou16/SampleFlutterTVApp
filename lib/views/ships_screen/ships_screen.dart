@@ -3,9 +3,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:samplefluttertvapp/data/models/ships/ships_data_model.dart';
 import 'package:samplefluttertvapp/utils/alerts_dialog/alerts_dialog.dart';
-import 'package:samplefluttertvapp/views/ships_screen/ships_bloc.dart';
-import 'package:samplefluttertvapp/views/ships_screen/ships_events/ships_events.dart';
-import 'package:samplefluttertvapp/views/ships_screen/ships_states/ships_states.dart';
+import 'package:samplefluttertvapp/views/ships_screen/ships_bloc/ships_bloc.dart';
+import 'package:samplefluttertvapp/views/ships_screen/ships_bloc/ships_events.dart';
+import 'package:samplefluttertvapp/views/ships_screen/ships_bloc/ships_states.dart';
 
 import '../ship_details_screen/ship_details_screen.dart';
 

@@ -1,5 +1,5 @@
 import 'package:samplefluttertvapp/data/database/entities/ships_entity.dart';
-import 'package:samplefluttertvapp/data/remote/ships_service.dart';
+import 'package:samplefluttertvapp/domain/remote/ships_service.dart';
 
 class ShipsRepository {
   final ShipsService _shipsService = ShipsService();
