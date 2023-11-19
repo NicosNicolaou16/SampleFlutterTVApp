@@ -4,7 +4,7 @@ Database.
 
 NOTE: EXAMPLE ONLY FOR ANDROID
 
-<a title="simulator_image"><img src="Screenshot_20231119_125537.png" height="300" width="500"></a>
+<a title="simulator_image"><img src="Screenshot_20231119_181302.png" height="300" width="500"></a>
 
 ## Similar project with (Kotlin Language)
 https://github.com/NicosNicolaou16/SampleAndroidTvApp <br />
