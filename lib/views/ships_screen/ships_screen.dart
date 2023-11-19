@@ -120,11 +120,11 @@ class _ShipsScreenState extends State<ShipsScreen> {
           elevation: 9,
           child: Column(
             children: [
+              const SizedBox(
+                height: 5,
+              ),
               ClipRRect(
-                borderRadius: const BorderRadius.only(
-                  topLeft: Radius.circular(15),
-                  bottomLeft: Radius.circular(15),
-                ),
+                borderRadius: const BorderRadius.all(Radius.circular(15)),
                 child: CachedNetworkImage(
                   imageUrl: shipsInnerDataModel.shipsEntity.image ?? "",
                   imageBuilder: (context, imageProvider) => Container(
@@ -143,14 +143,14 @@ class _ShipsScreenState extends State<ShipsScreen> {
                 ),
               ),
               const SizedBox(
-                height: 15,
+                height: 10,
               ),
               SizedBox(
                 width: 200,
                 child: Text(
                   shipsInnerDataModel.shipsEntity.shipName ?? "",
                   textAlign: TextAlign.center,
-                  maxLines: 2,
+                  maxLines: 1,
                   style: const TextStyle(
                     color: Colors.black,
                     fontSize: 17,
@@ -162,7 +162,7 @@ class _ShipsScreenState extends State<ShipsScreen> {
                 child: Text(
                   shipsInnerDataModel.shipsEntity.shipType ?? "",
                   textAlign: TextAlign.center,
-                  maxLines: 2,
+                  maxLines: 1,
                   style: const TextStyle(
                     color: Colors.black,
                     fontSize: 15,
