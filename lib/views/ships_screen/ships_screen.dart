@@ -149,6 +149,7 @@ class _ShipsScreenState extends State<ShipsScreen> {
                 width: 200,
                 child: Text(
                   shipsInnerDataModel.shipsEntity.shipName ?? "",
+                  textAlign: TextAlign.center,
                   maxLines: 2,
                   style: const TextStyle(
                     color: Colors.black,
@@ -160,6 +161,7 @@ class _ShipsScreenState extends State<ShipsScreen> {
                 width: 200,
                 child: Text(
                   shipsInnerDataModel.shipsEntity.shipType ?? "",
+                  textAlign: TextAlign.center,
                   maxLines: 2,
                   style: const TextStyle(
                     color: Colors.black,
