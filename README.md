@@ -19,6 +19,10 @@ Bloc Architecture Pattern with Repository and Service <br />
 Dio (Network Manager) <br />
 Drift Database (SQL) <br />
 
+## Versions
+Flutter SDK version: 3.13.9 <br />
+Dart Version: 3.1.5 <br />
+
 # Setup in Manifest
 ```xml
 
@@ -44,8 +48,8 @@ Drift Database (SQL) <br />
 </manifest>
 ```
 
-Flutter SDK version: 3.13.9 <br />
-Dart Version: 3.1.5 <br />
+## Check my article
+https://medium.com/@nicosnicolaou/android-tv-application-jetpack-compose-and-flutter-f4decfa765c6
 
 # Feeds/Urls/End Point (parsing some data from response)
 ## (Links References for Ends Points)
