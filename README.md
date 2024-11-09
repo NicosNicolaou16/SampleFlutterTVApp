@@ -20,8 +20,8 @@ Dio (Network Manager) <br />
 Drift Database (SQL) <br />
 
 ## Versions
-Flutter SDK version: 3.19.5 <br />
-Dart Version: 3.3.3 <br />
+Flutter SDK version: 3.24.4 <br />
+Dart Version: 3.5.4 <br />
 
 # Setup in Manifest
 ```xml
