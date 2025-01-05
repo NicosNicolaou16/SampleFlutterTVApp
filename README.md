@@ -11,11 +11,6 @@ NOTE: EXAMPLE ONLY FOR ANDROID
 
 https://github.com/NicosNicolaou16/SampleAndroidTvApp <br />
 
-# References/Tutorials Follow/For Manifest Setup
-
-https://mobikul.com/tv-app-using-flutter/ <br />
-https://stackoverflow.com/questions/69607355/how-to-create-stack-vertical-listview-and-horizontal-listview-in-flutter-draggab <br />
-
 # The Project Contain the following technologies and libraries
 
 Android TV OS support <br />
@@ -74,3 +69,8 @@ https://medium.com/@nicosnicolaou/android-tv-application-jetpack-compose-and-flu
 
 https://github.com/r-spacex/SpaceX-API (GitHub) <br />
 https://docs.spacexdata.com/?version=latest (Postman) <br />
+
+# References
+
+https://mobikul.com/tv-app-using-flutter/ <br />
+https://stackoverflow.com/questions/69607355/how-to-create-stack-vertical-listview-and-horizontal-listview-in-flutter-draggab <br />
