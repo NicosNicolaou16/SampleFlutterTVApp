@@ -22,11 +22,6 @@ functionality. ([Drift Database Documentation](https://pub.dev/packages/drift)) 
 [Cached Network Image](https://pub.dev/packages/cached_network_image) is a package that it is
 responsible for loading the images and supports offline functionality.  <br />
 
-## Versions
-
-Flutter SDK version: 3.24.4 <br />
-Dart Version: 3.5.4 <br />
-
 # Setup
 
 ## Setup in Manifest
@@ -55,19 +50,16 @@ Dart Version: 3.5.4 <br />
 </manifest>
 ```
 
-## Check my article
-
-https://medium.com/@nicosnicolaou/android-tv-application-jetpack-compose-and-flutter-f4decfa765c6
-
-## Similar project with (Kotlin Language)
-
-https://github.com/NicosNicolaou16/SampleAndroidTvApp <br />
-
 > [!IMPORTANT]  
 > Check my article for the setup :point_right: [Android TV Application (Setup for Jetpack Compose and Flutter) - Medium](https://medium.com/@nicosnicolaou/android-tv-application-jetpack-compose-and-flutter-f4decfa765c6) :point_left: <br />
 
 > [!IMPORTANT]
 > Similar project with (Kotlin Language) :point_right: [SampleAndroidTvApp](https://github.com/NicosNicolaou16/SampleAndroidTvApp) :point_left: <br />
+
+## Versioning
+
+Flutter SDK version: 3.24.4 <br />
+Dart Version: 3.5.4 <br />
 
 # Feeds/Urls/End Point (parsing some data from response)
 
