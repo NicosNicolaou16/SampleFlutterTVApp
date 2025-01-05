@@ -7,10 +7,6 @@ NOTE: EXAMPLE ONLY FOR ANDROID
 
 <a title="simulator_image"><img src="Screenshot_20231119_183026.png" height="300" width="500"></a>
 
-## Similar project with (Kotlin Language)
-
-https://github.com/NicosNicolaou16/SampleAndroidTvApp <br />
-
 # The Project Contain the following technologies and libraries
 
 Android TV OS support <br />
@@ -62,6 +58,16 @@ Dart Version: 3.5.4 <br />
 ## Check my article
 
 https://medium.com/@nicosnicolaou/android-tv-application-jetpack-compose-and-flutter-f4decfa765c6
+
+## Similar project with (Kotlin Language)
+
+https://github.com/NicosNicolaou16/SampleAndroidTvApp <br />
+
+> [!IMPORTANT]  
+> Check my article for the setup :point_right: [Android TV Application (Setup for Jetpack Compose and Flutter) - Medium](https://medium.com/@nicosnicolaou/android-tv-application-jetpack-compose-and-flutter-f4decfa765c6) :point_left: <br />
+
+> [!IMPORTANT]
+> Similar project with (Kotlin Language) :point_right: [SampleAndroidTvApp](https://github.com/NicosNicolaou16/SampleAndroidTvApp) :point_left: <br />
 
 # Feeds/Urls/End Point (parsing some data from response)
 
