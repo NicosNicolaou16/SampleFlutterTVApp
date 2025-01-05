@@ -22,7 +22,8 @@ Android TV OS support <br />
 [Bloc Patterns using single state](https://pub.dev/packages/flutter_bloc) along with repositories
 and services, separates business logic, data access, and UI by using streams to handle state and
 manage data flow. ([Bloc Pattern Documentation](https://bloclibrary.dev/getting-started/)) <br />
-Dio (Network Manager) <br />
+[Dio Network Manager](https://pub.dev/packages/dio) is responsible for making requests and
+retrieving data from the remote server. <br />
 Drift Database (SQL) <br />
 
 ## Versions
