@@ -3,7 +3,8 @@
 This is a sample project that supports the Android TV OS app. It uses the BLoC architecture pattern,
 along with Dio for network management and Drift for database handling.
 
-NOTE: EXAMPLE ONLY FOR ANDROID
+> [!IMPORTANT]
+> NOTE: EXAMPLE FOR ANDROID ONLY. <br />
 
 <a title="simulator_image"><img src="Screenshot_20231119_183026.png" height="300" width="500"></a>
 
