@@ -1,8 +1,7 @@
 # Sample Flutter TV App
 
-This is a sample project that support Android TV OS App and also it uses Bloc Architecture Pattern
-with Dio Network Manager and Drift
-Database.
+This is a sample project that supports the Android TV OS app. It uses the BLoC architecture pattern,
+along with Dio for network management and Drift for database handling.
 
 NOTE: EXAMPLE ONLY FOR ANDROID
 
