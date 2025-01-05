@@ -10,7 +10,8 @@ along with Dio for network management and Drift for database handling.
 
 # The Project Contain the following technologies and libraries
 
-Android TV OS support <br />
+[Android TV OS]()https://developer.android.com/tv is a version of Android designed for smart TVs,
+providing an optimized interface for streaming and apps. <br />
 [Bloc Patterns using single state](https://pub.dev/packages/flutter_bloc) along with repositories
 and services, separates business logic, data access, and UI by using streams to handle state and
 manage data flow. ([Bloc Pattern Documentation](https://bloclibrary.dev/getting-started/)) <br />
