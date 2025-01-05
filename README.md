@@ -25,6 +25,11 @@ manage data flow. ([Bloc Pattern Documentation](https://bloclibrary.dev/getting-
 [Dio Network Manager](https://pub.dev/packages/dio) is responsible for making requests and
 retrieving data from the remote server. <br />
 Drift Database (SQL) <br />
+[Drift Database](https://drift.simonbinder.eu/docs/getting-started/) is responsible for saving the
+retrieved data from the remote server, querying data from the local database, and supporting offline
+functionality. ([Drift Database Documentation](https://pub.dev/packages/drift)) <br />
+[Cached Network Image](https://pub.dev/packages/cached_network_image) is a package that it is
+responsible for loading the images and supports offline functionality.  <br />
 
 ## Versions
 
