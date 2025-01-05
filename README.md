@@ -16,10 +16,12 @@ https://github.com/NicosNicolaou16/SampleAndroidTvApp <br />
 https://mobikul.com/tv-app-using-flutter/ <br />
 https://stackoverflow.com/questions/69607355/how-to-create-stack-vertical-listview-and-horizontal-listview-in-flutter-draggab <br />
 
-# This Project contains:
+# The Project Contain the following technologies and libraries
 
 Android TV OS support <br />
-Bloc Architecture Pattern with Repository and Service <br />
+[Bloc Patterns using single state](https://pub.dev/packages/flutter_bloc) along with repositories
+and services, separates business logic, data access, and UI by using streams to handle state and
+manage data flow. ([Bloc Pattern Documentation](https://bloclibrary.dev/getting-started/)) <br />
 Dio (Network Manager) <br />
 Drift Database (SQL) <br />
 
