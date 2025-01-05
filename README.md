@@ -28,7 +28,9 @@ Drift Database (SQL) <br />
 Flutter SDK version: 3.24.4 <br />
 Dart Version: 3.5.4 <br />
 
-# Setup in Manifest
+# Setup
+
+## Setup in Manifest
 
 ```xml
 
