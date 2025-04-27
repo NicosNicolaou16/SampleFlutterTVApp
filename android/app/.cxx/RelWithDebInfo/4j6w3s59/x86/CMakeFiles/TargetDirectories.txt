@@ -1,0 +1,2 @@
+C:/Users/Nicos/Desktop/AndroidProjects/samplefluttertvapp/android/app/.cxx/RelWithDebInfo/4j6w3s59/x86/CMakeFiles/edit_cache.dir
+C:/Users/Nicos/Desktop/AndroidProjects/samplefluttertvapp/android/app/.cxx/RelWithDebInfo/4j6w3s59/x86/CMakeFiles/rebuild_cache.dir
