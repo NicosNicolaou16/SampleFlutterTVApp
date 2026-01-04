@@ -60,8 +60,8 @@ responsible for loading the images and supports offline functionality.  <br />
 
 ## Versioning
 
-Flutter SDK version: 3.32.8 <br />
-Dart Version: 3.8.1 <br />
+Flutter SDK version: 3.38.5 <br />
+Dart Version: 3.10.4 <br />
 
 # Feeds/Urls/End Point (parsing some data from response)
 
