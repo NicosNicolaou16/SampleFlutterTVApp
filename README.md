@@ -67,10 +67,10 @@ Dart Version: 3.8.1 <br />
 
 ## (Links References for Ends Points)
 
-https://github.com/r-spacex/SpaceX-API (GitHub) <br />
-https://docs.spacexdata.com/?version=latest (Postman) <br />
+- https://github.com/r-spacex/SpaceX-API (GitHub) <br />
+- https://docs.spacexdata.com/?version=latest (Postman) <br />
 
 # References
 
-https://mobikul.com/tv-app-using-flutter/ <br />
-https://stackoverflow.com/questions/69607355/how-to-create-stack-vertical-listview-and-horizontal-listview-in-flutter-draggab <br />
+- https://mobikul.com/tv-app-using-flutter/ <br />
+- https://stackoverflow.com/questions/69607355/how-to-create-stack-vertical-listview-and-horizontal-listview-in-flutter-draggab <br />
