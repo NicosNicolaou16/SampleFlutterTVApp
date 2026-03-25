@@ -47,7 +47,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  drift_dev: ^2.30.0
+  drift_dev: ^2.32.1
   build_runner: ^2.10.4
 
   # The "flutter_lints" package below contains a set of recommended lints to
