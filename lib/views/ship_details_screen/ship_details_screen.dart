@@ -10,14 +10,14 @@ import 'package:samplefluttertvapp/views/ship_details_screen/ship_details_bloc/s
 class ShipDetailsScreen extends StatefulWidget {
   final String shipId;
 
-  const ShipDetailsScreen({Key? key, required this.shipId}) : super(key: key);
+  const ShipDetailsScreen({super.key, required this.shipId});
 
   @override
   State<ShipDetailsScreen> createState() => _ShipDetailsScreenState();
 }
 
 class _ShipDetailsScreenState extends State<ShipDetailsScreen> {
-  _init(BuildContext context) {
+  void _init(BuildContext context) {
     context.read<ShipDetailsBloc>().add(ShipDetailsLocalQuery(widget.shipId));
   }
 
