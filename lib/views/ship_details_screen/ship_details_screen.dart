@@ -73,7 +73,7 @@ class _ShipDetailsScreenState extends State<ShipDetailsScreen> {
           ShipDetailsDataModel shipDetailsDataModel =
               state.shipDetailsDataModelList[index];
           if (shipDetailsDataModel.shipDetailsViewType ==
-              ShipDetailsViewType.PHOTO_VIEW_TYPE) {
+              ShipDetailsViewType.photoViewType) {
             return _imageView(shipDetailsDataModel);
           } else {
             return _infoView(shipDetailsDataModel);
