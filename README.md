@@ -69,6 +69,29 @@ To support Android TV, update your `AndroidManifest.xml` with the following:
 > [!IMPORTANT]
 > Similar project with (Kotlin Language) :point_right: [SampleAndroidTvApp](https://github.com/NicosNicolaou16/SampleAndroidTvApp) :point_left: <br />
 
+## 📊 Versioning
+
+- **Flutter SDK:** **3.41.5**
+- **Dart Version:** **3.11.3**
+
+## 🌐 API & Data Sources
+
+- **SpaceX-API (GitHub):** [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API)
+- **Postman Documentation:** [SpaceX Data API](https://docs.spacexdata.com/?version=latest)
+
+## 📚 References
+
+- **TV App Guide:** [TV App using Flutter - Mobikul](https://mobikul.com/tv-app-using-flutter/)
+- **UI Layouts:** [Stack, Vertical, and Horizontal ListView in Flutter](https://stackoverflow.com/questions/69607355/how-to-create-stack-vertical-listview-and-horizontal-listview-in-flutter-draggab)
+
+## ⭐ Stargazers
+
+If you find this project useful, please give it a star!
+
+## 🙏 Support & Contributions
+
+This project is maintained for the community. Feedback, bug reports, and feature requests are welcome! Feel free to **open an i
+
 ## Versioning
 
 Flutter SDK version: 3.41.5 <br />
