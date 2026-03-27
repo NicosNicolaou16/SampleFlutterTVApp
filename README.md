@@ -87,24 +87,8 @@ To support Android TV, update your `AndroidManifest.xml` with the following:
 ## ⭐ Stargazers
 
 If you find this project useful, please give it a star!
+[Check out the stargazers here](https://github.com/NicosNicolaou16/SampleFlutterTVApp/stargazers)
 
 ## 🙏 Support & Contributions
 
-This project is maintained for the community. Feedback, bug reports, and feature requests are welcome! Feel free to **open an i
-
-## Versioning
-
-Flutter SDK version: 3.41.5 <br />
-Dart Version: 3.11.3 <br />
-
-# Feeds/Urls/End Point (parsing some data from response)
-
-## (Links References for Ends Points)
-
-- https://github.com/r-spacex/SpaceX-API (GitHub) <br />
-- https://docs.spacexdata.com/?version=latest (Postman) <br />
-
-# References
-
-- https://mobikul.com/tv-app-using-flutter/ <br />
-- https://stackoverflow.com/questions/69607355/how-to-create-stack-vertical-listview-and-horizontal-listview-in-flutter-draggab <br />
+This project is maintained for the community. Feedback, bug reports, and feature requests are welcome! Feel free to **open an issue** or submit a **pull request**.
