@@ -71,8 +71,8 @@ To support Android TV, update your `AndroidManifest.xml` with the following:
 
 ## 📊 Versioning
 
-- **Flutter SDK:** **3.41.5**
-- **Dart Version:** **3.11.3**
+- **Flutter SDK:** **3.41.6**
+- **Dart Version:** **3.11.4**
 
 ## 🌐 API & Data Sources
 
